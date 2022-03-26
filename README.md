@@ -16,10 +16,14 @@ Many times its required to integrate the social links inside the apps/webapps. T
 <table>
 <tr>
 <td>
+
 ![Untitled](https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/colored.png)
+
 </td>
 <td>
+
 ![Untitled](https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/greyish.png)
+
 </td>
 </tr>
 </table>
