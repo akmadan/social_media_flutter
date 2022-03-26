@@ -12,10 +12,18 @@ Many times its required to integrate the social links inside the apps/webapps. T
 
 
 
-## Getting started  
+## Outcome 
+<table>
+<tr>
+<td>
+![Untitled](https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/colored.png)
+</td>
+<td>
+![Untitled](https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/greyish.png)
+</td>
+</tr>
+</table>
 
-TODO: List prerequisites and provide or point toinformation on how to
-start using the package.
 
 ## Usage
 
