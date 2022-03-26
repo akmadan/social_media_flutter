@@ -21,13 +21,13 @@ Using a SocialWidget -
 
 ```dart
  SocialWidget(
-                      placeholderText: 'akshitmadan_', //text visible to viewers
-                      iconData: SocialIconsFlutter.instagram,  //use the respective social logo
-                      iconColor: Colors.pink, //(optional, default - grey)
-                      link: 'https://www.instagram.com/akshitmadan_/', //provide the link
-                      placeholderStyle:
-                          TextStyle(color: Colors.black, fontSize: 20), //placeholder text style
-                    ),
+    placeholderText: 'akshitmadan_', //text visible to viewers
+    iconData: SocialIconsFlutter.instagram,  //use the respective social logo
+    iconColor: Colors.pink, //(optional, default - grey)
+    link: 'https://www.instagram.com/akshitmadan_/', //provide the link
+    placeholderStyle:
+    TextStyle(color: Colors.black, fontSize: 20), //placeholder text style
+),
 ```
 
 Check example for better understanding
