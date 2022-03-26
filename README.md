@@ -17,12 +17,14 @@ Many times its required to integrate the social links inside the apps/webapps. T
 <tr>
 <td>
 
-![Untitled](https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/colored.png)
+<img src="https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/colored.png" alt="Your image title" width="250"/>
+
+<!-- ![Untitled](https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/colored.png) -->
 
 </td>
 <td>
 
-![Untitled](https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/greyish.png)
+<img src="https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/greyish.png" alt="Your image title" width="250"/>
 
 </td>
 </tr>
