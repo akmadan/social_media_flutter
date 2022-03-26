@@ -30,11 +30,11 @@ Many times its required to integrate the social links inside the apps/webapps. T
 
 <td>
 
-<video src='https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/video.mp4' width=200/>
+<img src="https://raw.githubusercontent.com/akmadan/social_media_flutter/master/.github/images/video.gif" alt="Your image title" width="200"/>
 
 </td>
 
-<td>
+
 </tr>
 </table>
 
